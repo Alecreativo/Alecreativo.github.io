@@ -1,0 +1,130 @@
+html {
+	font-family: "Montserrat", sans-serif;
+}
+
+body {
+	margin: 0;
+	background-image: url(img/preview.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+/*Código para navbar*/
+
+.navbar {
+	padding: 0rem;
+}
+
+.nav-link {
+	color: grey !important;
+	font-size: x-large;
+	font-weight: 700;
+	margin-right: 1.2rem;
+}
+
+/*Códigos para banner página productos*/
+
+.banner {
+	margin-top: 1rem;
+	margin-right: 10rem;
+	margin-bottom: 0rem;
+}
+
+/*Código para misión y visión de la página*/
+
+.card-title-mision {
+	text-align: center;
+	margin-top: 2rem;
+}
+.card-vision .card-mision {
+	text-align: justify;
+	margin-top: 10rem;
+	margin-bottom: 20rem;
+}
+
+.footerfotos {
+	margin-top: 2.2rem;
+}
+
+.footer-nosotros {
+	margin-top: 14.6rem;
+}
+
+.card-title-vision {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+/*Código para footer de la página*/
+
+.bg-light {
+	background-color: rgb(27, 76, 109) !important;
+	margin-top: 2rem;
+	font-size: x-large;
+	color: white;
+}
+
+.logofacebook {
+	margin-left: 27rem;
+}
+
+/*Código para efectos de las tarjetas o cards página de inicio*/
+.card:hover {
+	box-shadow: 0px 0px 11px 0px #a5a5a5 !important;
+	cursor: pointer;
+}
+
+/*Etiquetas para logos de pago*/
+.logo-pago {
+	background-color: white;
+	padding: 4%;
+	border-radius: 1rem;
+}
+
+.btn-primary {
+	border-radius: 1rem;
+}
+
+/*Códigos para títulos de mugs*/
+
+.title-mugs {
+	margin-top: 2rem;
+	text-align: center;
+	color: rgb(27, 76, 109);
+}
+
+/*Códigos para títulos de galería*/
+
+.title-gallery {
+	text-align: center;
+	color: rgb(27, 76, 109);
+}
+
+/*Códgigos para card's home*/
+.card-home {
+	align-items: left;
+	background-color: white;
+	margin-top: 2rem;
+	margin-left: 5rem;
+	width: 1100px;
+	height: 200px;
+}
+
+.img-home {
+	margin: 2rem 2rem 2rem;
+}
+
+/*Códigos para título de galería*/
+
+.trabajos {
+	margin-left: 30rem;
+	margin-bottom: 2rem;
+	width: 600px;
+}
+
+.videos {
+	margin-left: 10rem;
+	margin-top: 2rem;
+	margin-bottom: 1.6rem;
+	width: 20%;
+}
